@@ -19,4 +19,4 @@
 
 - https://qiita.com/ymktmk/items/54920620e1e99389f36c
 
-Thanks!
+Fixed the message format. Thanks!
